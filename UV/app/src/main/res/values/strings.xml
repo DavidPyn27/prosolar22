@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UV</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--- Strings clase login -->
+    <string name="logo2">logo</string>
+    <string name="inicioSesion">Iniciar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="restablecer">Restablecer contraseña</string>
+
+    <!--- Strings clase ingresar-->
+
+    <string name="bienvenida">Bienvenido a “U-P-A” la app movil que te permite consultar los factores del medio ambiente y mantenerte enterado en tiempo real de lo que pasa con el ecosistema.</string>
+    <string name="regristro">Registrarse</string>
+    <string name="copy">© Copyright 2019-2020 Innovatec-CTPI</string>
+
+    <!--- Strings clase registro-->
+    <string name="informacion">Crear usuario, los campos con (*) no son obligatorios</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena1">Contraseña</string>
+    <string name="pnombre">Primer nombre</string>
+    <string name="snombre">Segundo nombre*</string>
+    <string name="papellido">Primer apellido</string>
+    <string name="sapellido">Segundo apellido*</string>
+    <string name="tipodeuso">Tipo de uso</string>
+    <string name="institucion">Institución</string>
+    <string name="pais">País</string>
+    <string name="departamento">Departamento</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="registrar">Registrar</string>
+
+    <!--- Strings para contentDescription en img  -->
+    <string name="img">Descripcion</string>
+</resources>

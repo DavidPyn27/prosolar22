@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985948789366",
+    "firebase_url": "https://u-p-a-27925.firebaseio.com",
+    "project_id": "u-p-a-27925",
+    "storage_bucket": "u-p-a-27925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985948789366:android:f91fb48c9a1476b73e9d57",
+        "android_client_info": {
+          "package_name": "com.casasolarctpi.uv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985948789366-2po039o8ihade7tnb5n83abat19cjngh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casasolarctpi.uv",
+            "certificate_hash": "19d9c2b22d0d97f16e74487ebaa2b06e0b6a0697"
+          }
+        },
+        {
+          "client_id": "985948789366-ld93ei3vv1213irenrvt2du2sj91r3cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmswseUwnroaixoNn5j5AM0APCu7vSPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985948789366-ld93ei3vv1213irenrvt2du2sj91r3cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
