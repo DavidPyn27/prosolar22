@@ -36,7 +36,7 @@ public class MenuPrincipal extends AppCompatActivity implements View.OnClickList
     public void onClick(View view) {
         switch (view.getId()){
             case R.id.btnUV:
-                Intent intent = new Intent(MenuPrincipal.this, MapsActivity.class);
+                Intent intent = new Intent(MenuPrincipal.this, MainActivityUv.class);
                 startActivity(intent);
 
                 break;
